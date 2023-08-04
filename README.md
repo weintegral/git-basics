@@ -7,3 +7,9 @@
 ```
 git commit -m "some message"
 ```
+
+## Synatax for pushing changes to Git Repo
+
+```
+git push origin [branch name]
+```
